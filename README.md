@@ -19,6 +19,8 @@ I'm DeQuavion Wilburn😉, Full Stack Developer👨🏻‍💻 from Tennessee.
 🧰 **Tools**: Git, Visual Studio Code, Chrome, Postman, pgAdmin, Slack, Discord, Zoom
 
 ⏫ **Deployment**: Netlify, Heroku, Vercel
+  
+  ![DeQuavion's github stats](https://github-readme-stats.vercel.app/api?username=quawilburn)
 
 
 
